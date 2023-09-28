@@ -1,4 +1,4 @@
-baseurl = "https://blog.circledpath.com"
+baseurl = "https://blog.circledpath.com/"
 DefaultContentLanguage = "en"
 title = "The Circled Path"
 theme = "beautifulhugo"
@@ -46,7 +46,7 @@ pygmentsCodefencesGuessSyntax = true
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Sasha Musap"
-  website = "blog.circledpath.com"
+  website = "https://blog.circledpath.com/"
   email = "s.musap@circledpath.com"
   # facebook = "username"
   github = "korinthian90"
