@@ -1,0 +1,10 @@
+[submodule "thecircledpathblog/themes/themes/beautifulhugo"]
+	path = thecircledpathblog/themes/themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "thecircledpathblog/themes/beautifulhugo"]
+	path = thecircledpathblog/themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "thecircledpathblog/public"]
+	path = thecircledpathblog/public
+	url = git@github.com:Korinthian90/korinthian90.github.io.git
+	branch = main

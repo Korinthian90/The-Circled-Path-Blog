@@ -1,0 +1,4 @@
+baseURL = 'https://korinthian90.github.io'
+languageCode = 'en-us'
+title = 'The Circled Path'
+theme='beautifulhugo'
